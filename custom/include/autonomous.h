@@ -1,0 +1,28 @@
+// Format: returnType functionName();
+
+void left9Long();
+void left9LongDisrupt();
+void right9Long();
+void right9LongDisrupt();
+void left7LongandWing();
+void right7LongandWing();
+void leftLongAndMid();
+void leftLongAndMidDisrupt();
+void rightLongAndLow();
+void awp2();
+void test();
+void left4();
+void rifour();
+void rightwingauto();
+void leftmidseven();
+void leftwingauto();
+void rightlowquals();
+void leftmidelims();
+void awp();
+void awp3();
+void awp4();
+void left54();
+void rightwing7();
+void rightwing4();
+void rightwing4matchload();
+void skills();
